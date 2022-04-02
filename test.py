@@ -1,1 +1,2 @@
-from pygameerrrrrrvd import*
+from pygame import*
+#### ашыпка
